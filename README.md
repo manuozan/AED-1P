@@ -84,7 +84,7 @@ print('Determinar cuántas palabras contuvieron sólo una vez la expresión "mo"
 ```
 
 ```python
-1.2. Solución con funciones
+#1.2. Solución con funciones
 __author__ = 'Catedra de Algoritmos y Estructuras de Datos'
 
 def calcular_promedio(suma,cantidad):
